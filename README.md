@@ -1,2 +1,2 @@
 # Bagan
-Bagan the historical
+Bagan the historical town of Myanmar
