@@ -1,0 +1,98 @@
+.nav{
+    background-color: black;
+}
+.Telor{
+    color: red;
+    font-family: BLACKADDER ITC;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.index{
+    justify-content: center;
+    text-align: justify;
+    margin: auto;
+    background-image: url("background.jpg");
+    background-size: 100%;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+footer{
+width: 100%;
+    height: 200%;
+    background-color: black;
+    text-align: center;
+    font-family: Britannic Bold;
+    font-size: large;
+    color: blue;
+    padding: 20px;
+}
+.inside{
+    border: 1px solid grey;
+    background-color: grey;
+    border-radius: 10px;
+    margin: 50px;
+    justify-content: center;
+    margin-top: 200px;
+}
+.inside a{
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+.h2{
+    color: black;
+}
+.gird{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    gap: 20px;
+}
+.card{
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.container mt-4{
+    background-image: url("b2.jpg");
+    width: 100%;
+    height: 100%;
+}
+.col-auto{
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.box{
+    justify-content: center;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 30px;
+}
+.background{
+    background-image: url("b2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.special{
+    margin-bottom: 0px;
+}
+.card-body{
+    height: 800px;
+    text-align: justify;
+    color: black;
+}
+.list-group a:hover{
+    background-color: blue;
+    color: white;
+}
